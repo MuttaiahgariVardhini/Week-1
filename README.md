@@ -4,7 +4,7 @@ This project analyzes household power consumption data and builds a predictive m
 The dataset used is household_power_consumption.txt, and the trained model is saved as power_model.h5.  
 
 ### Files Included
-- Week1_Energy_Consumption_AI_Project.ipynb – main notebook with code and results  
+- Week1_Sustainability_AI_Project.ipynb – main notebook with code and results  
 - power_model.h5 – trained model  
 
 
