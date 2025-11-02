@@ -13,3 +13,6 @@ M. Vardhini
 
 #### DATASET LINK :
 https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set?resource=download
+
+#####Outputs (accuracy, precision, recall, and F1-score) are saved within the Jupyter Notebook.
+Due to GitHub’s rendering limits, they may not be visible here, but can be viewed when the notebook is opened locally in Jupyter or Google Colab.
